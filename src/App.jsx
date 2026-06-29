@@ -150,7 +150,7 @@ function App() {
             <IconButton color="inherit">
               <Notifications />
             </IconButton>
-            <Avatar className="avatar">H</Avatar>
+            <Avatar className="avatar">G</Avatar>
           </Box>
         </Toolbar>
       </AppBar>
